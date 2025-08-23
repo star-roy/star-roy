@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
+![Header image](https://raw.githubusercontent.com/star-roy/star-roy/main/1755973379931.png)
 
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Dibyaranjan Nayak 👋</h1>
