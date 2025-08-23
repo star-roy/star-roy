@@ -1,8 +1,10 @@
 ![Header image](https://raw.githubusercontent.com/star-roy/star-roy/main/1755973379931.png)
 
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm Dibyaranjan Nayak 👋</h1>
-<p align="center">I'm a tech enthusiast who loves to learn about new things</p>
+<div>
+  <h1 align="center">Hi, I'm Dibyaranjan Nayak</h1>
+  <p align="center">I'm a tech enthusiast who loves to learn about new things</p>
+</div>
 <p align="center">
   <img src="https://img.shields.io/github/followers/[your-username]?label=Follow&style=social" />
   <img src="https://img.shields.io/github/stars/[your-username]?style=social" />
