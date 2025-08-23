@@ -5,10 +5,6 @@
   <h1 align="center">Hi, I'm Dibyaranjan Nayak</h1>
   <p align="center">I'm a tech enthusiast who loves to learn about new things</p>
 </div>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/[your-username]?label=Follow&style=social" />
-  <img src="https://img.shields.io/github/stars/[your-username]?style=social" />
-</p>
 
 <!-- About Section -->
 ## 👨‍💻 About Me
@@ -39,14 +35,14 @@
     <a href="https://www.linkedin.com/in/dibyaranjan-nayak-86a698325/">
       <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />&nbsp
     </a>
+    <a href="https://www.instagram.com/roystar_ff?utm_source=qr&igsh=cmVzODl3bXRya3Ez">
       <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />&nbsp
-      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />&nbsp
+    </a>
+    <a href="mailto:dibyaranjannayak04@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+    </a>  
   </p>
 </div>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/[your-linkedin])
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/[your-twitter])
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:[your-email])
 
 ---
 
