@@ -36,7 +36,7 @@
 <div>
   <h2 align="center">🌐 Connect with Me</h2>
   <p align="center">
-    <a href="https://www.linkedin.com/in/dibyaranjan-nayak-86a698325">
+    <a href="https://www.linkedin.com/in/dibyaranjan-nayak-86a698325/">
       <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />&nbsp
     </a>
       <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />&nbsp
