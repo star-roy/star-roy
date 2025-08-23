@@ -42,8 +42,6 @@
       <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
     </a>  
   </p>
-</div>
+</div><br>
 
----
-
-*Thanks for visiting my profile!*
+![Footer image](https://raw.githubusercontent.com/star-roy/star-roy/main/1755980003852.png)
