@@ -18,31 +18,31 @@
 - 💬 Ask me about: [Topics]
 - 📫 How to reach me: [Email/LinkedIn]
 - ⚡ Fun fact: [Something interesting]
-
+<br>
 <!-- Skills Section -->
-## 🛠️ Skills
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-<!-- Add more as needed -->
-
-<!-- Pinned Projects -->
-## 📌 Featured Projects
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=[your-username]&repo=[repo-name])](https://github.com/[your-username]/[repo-name])
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=[your-username]&repo=[repo-name])](https://github.com/[your-username]/[repo-name])
-<!-- Add more as needed -->
-
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&hide_title=true&count_private=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact)
-
+<div>
+  <h2 align="center">🛠️ Languages and Tools</h2>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,py,js,c&theme=dark" /><br>
+      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express&theme=dark" /><br>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" /><br>
+      <img src="https://skillicons.dev/icons?i=vscode,postman,eclipse,anaconda&theme=dark" />
+    </a>
+  </p>
+</div>
+<br>
 <!-- Social Links -->
-## 🌐 Connect with Me
+<div>
+  <h2 align="center">🌐 Connect with Me</h2>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/dibyaranjan-nayak-86a698325">
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />&nbsp
+    </a>
+      <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />&nbsp
+      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />&nbsp
+  </p>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/[your-linkedin])
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/[your-twitter])
