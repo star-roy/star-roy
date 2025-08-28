@@ -25,8 +25,8 @@ Web Designing 🖌️
 
 💡 **Fun Facts:**
 
-I believe dark mode makes me code 2x faster 🚀<br>
-My “Hello World” count is officially untrackable 🛤️
+My “Hello World” count is officially untrackable 🛤️<br>
+I believe dark mode makes me code 2x faster 🚀
 
 </div>
 <br>
