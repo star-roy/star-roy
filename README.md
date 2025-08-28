@@ -1,9 +1,11 @@
 ![Header image](https://raw.githubusercontent.com/star-roy/star-roy/main/1755973379931.png)
 
 <!-- Profile Header -->
-<div>
-  <h1 align="center">Hi, I'm Dibyaranjan Nayak</h1>
-  <p align="center">I'm a tech enthusiast who loves to learn about new things</p>
+<div align="center">
+  <h1>Hi, I'm Dibyaranjan Nayak</h1>
+  <p>I'm a tech enthusiast who loves to learn about new things</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=90FF00&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Building+Skills+For+Tomorrow's+Tech;Coding,+Learning,+And+Building+Cool+Stuff+Along+The+Way" alt="Typing SVG" />
+
 </div>
 
 <!-- About Section -->
