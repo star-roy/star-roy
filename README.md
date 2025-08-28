@@ -5,17 +5,30 @@
   <h1>Hi, I'm Dibyaranjan Nayak</h1>
   <p>I'm a tech enthusiast who loves to learn about new things</p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=90FF00&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Building+Skills+For+Tomorrow's+Tech;Coding,+Learning,+And+Building+Cool+Stuff+Along+The+Way" alt="Typing SVG" />
-
 </div>
 
 <!-- About Section -->
+<div align="center">
+  
 ## 👨‍💻 About Me
+I’m a **Full-Stack Developer** and **CS undergrad** passionate about crafting intuitive UIs and scalable backends.  
+I love experimenting with new tech and turning concepts into real-world solutions.  
 
-- 🔭 I’m currently working on: [Project Name/Description]
-- 🌱 I’m learning: [Tech/Framework]
-- 💬 Ask me about: [Topics]
-- 📫 How to reach me: [Email/LinkedIn]
-- ⚡ Fun fact: [Something interesting]
+🔭 **Currently Working On:**  
+
+Building and enhancing the **Zephyra** web app 🚀
+
+🌱 **Currently Exploring:** 
+
+UI/UX Design 🎨<br>
+Web Designing 🖌️
+
+💡 **Fun Facts:**
+
+I believe dark mode makes me code 2x faster 🚀<br>
+My “Hello World” count is officially untrackable 🛤️
+
+</div>
 <br>
 <!-- Skills Section -->
 <div>
